@@ -40,7 +40,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/moizuddin-83/JobConnect-job-portal-project
-   cd job-Connect-SE-Project-main
+    cd JobConnect-job-portal-project
    ```
 
 2. **Install dependencies**
