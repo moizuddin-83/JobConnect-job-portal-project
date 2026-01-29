@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GIT_REPOSITORY_URL>
+   git clone https://github.com/moizuddin-83/JobConnect-job-portal-project
    cd job-Connect-SE-Project-main
    ```
 
